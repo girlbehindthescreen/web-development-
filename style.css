@@ -1,0 +1,55 @@
+h1{
+    color:black;
+}
+body{
+    background-color:lightslategrey;
+    color: bisque
+}
+input{
+    width: 100%;
+}
+input[type=text] {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+input[type=text]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=text]{
+    background-color:whitesmoke;
+    color: black;
+}
+input[type=email]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=email]{
+    background-color:whitesmoke;
+    color: black;
+}
+input[type=password]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=password]{
+    background-color:whitesmoke;
+    color: black;
+}
+input[type=tel]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=tel]{
+    background-color:whitesmoke;
+    color: black;
+}
+form{
+    margin: 20px;
+    padding: 15px 5;
+    background-color: darkgrey;
+    border: 2px solid black;
+    border-radius: 4px;
+}
